@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     }
 
 //BranchesGitHub
+    func safdarUser1RequestToUser2(){
+        
+    }
 }
 
 //Ssafdarar
